@@ -3,7 +3,7 @@
 ae nhìn vào phát là hiểu luôn (thg nao ko hieu thg do ga)
 # Cài đặt 
 # B1 
-git clone
+git clone https://github.com/dongvothanh8/Simple-Nsfw-DPY.git
 # B2  
 pip install requirements.txt
 # B3 
