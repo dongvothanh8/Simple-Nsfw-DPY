@@ -5,7 +5,7 @@ ae nhìn vào phát là hiểu luôn (thg nao ko hieu thg do ga)
 # B1 
 git clone https://github.com/dongvothanh8/Simple-Nsfw-DPY.git
 # B2  
-pip install requirements.txt
+pip install -r requirements.txt
 # B3 
 Vào config.json để thêm token và prefix 
 # B4 
