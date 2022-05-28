@@ -1,3 +1,6 @@
+[discord-shield]: https://discord.com/api/guilds/955419918298415255/widget.png
+[discord-invite]: https://discord.gg/wibuneverdie
+[ ![discord-shield][] ][discord-invite]
 # Simple-NSFW-DPY
 đúng với cái tên đây là con nsfw đơn giản 
 ae nhìn vào phát là hiểu luôn (thg nao ko hieu thg do ga)
