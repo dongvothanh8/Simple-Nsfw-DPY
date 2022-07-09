@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongvothanh8)](https://github.com/anuraghazra/github-readme-stats)
+
 [discord-shield]: https://discord.com/api/guilds/955419918298415255/widget.png
 [discord-invite]: https://discord.gg/wibuneverdie
 [ ![discord-shield][] ][discord-invite]
